@@ -6,6 +6,10 @@ Python-based project designed to analyze the emotional content of text using lex
 
 The Lexicon Analysis Tool is a Python-based project designed to analyze the emotional content of text using lexicons. Lexicons are databases containing words along with their associated emotional dimensions, such as valence, arousal, dominance, joy, anger, sadness, fear, and disgust.
 
+# Latest Wikidump:
+
+https://dumps.wikimedia.org/trwiki/
+
 # Features:
 
 Lexicon Integration: The tool integrates multiple lexicons, including NRC VAD and MTL Grouped, which provide emotional scores for words in different languages.
